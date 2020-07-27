@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.exe
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.deps.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfo.cs
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APrivasi\a\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.genruntimeconfig.cache
